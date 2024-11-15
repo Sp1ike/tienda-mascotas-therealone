@@ -1,0 +1,19 @@
+/* src/styles/AboutUs.css */
+#about-us {
+    padding: 40px;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  #about-us h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  #about-us p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
